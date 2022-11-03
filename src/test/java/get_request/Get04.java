@@ -52,6 +52,15 @@ public class Get04 extends JsonplaceholderBaseUrl {
                         "userId",hasItems(2,7,9));
 
 
+         //Hamcrest Metotları;
+
+        /*
+        -hasSize();          - hasItem();
+        -hasItems();
+         */
+
+        //Java kodlarını Json data tipine cevirmeye serialization
+        //Response dan gelen json formatındakı datayı,java kodlarına cevirmeye de-serialization denir.
 
     }
 }
